@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
 </p>
 
 ### Data Science & Analytics
@@ -71,17 +71,18 @@
 |---------|-------------|-------|
 | **[n8n-automation-lab](https://github.com/makuzminets/n8n-automation-lab)** | Production-ready n8n workflows with RAG chatbots, AI agents, and booking automation | n8n, Supabase, OpenAI, Telegram |
 
-### 🧠 Machine Learning
+### 🧠 Machine Learning & NLP
 
-*Coming soon...*
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[NLTK_Text_Preprocessing_Package](https://github.com/makuzminets/NLTK_Text_Preprocessing_Package)** | Text preprocessing package for NLTK — normalization, tokenization, and text cleaning | Python, NLTK |
+| **[Gibberish-Detector](https://github.com/makuzminets/Gibberish-Detector)** | Detect gibberish text using Markov Chain probability model | Python, Markov Chain |
 
 ### 📊 Data Science
 
-*Coming soon...*
-
-### 🔧 Data Engineering
-
-*Coming soon...*
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Stepik-ML](https://github.com/makuzminets/Stepik-ML)** | Data Science notebooks — ML algorithms, feature engineering, model evaluation | Python, Jupyter, scikit-learn |
 
 ---
 
