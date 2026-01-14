@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Maksim 👋</h1>
 
 <p align="center">
-  <strong>Data Engineer | Automation Engineer</strong><br>
-  10+ years building data platforms, workflow automations, and analytics infrastructure
+  <strong>AI & Automation Engineer | Data Engineer</strong><br>
+  Building LLM-powered workflows, ML pipelines, and AI-driven automation systems
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 ## 🚀 What I Do
 
-- 🛡️ **Fraud & Trust Safety** — Built systems that reduced scams by 70% and chargebacks from 7% to 1%
-- 📊 **Analytics Engineering** — dbt, data modeling, star schema, data quality & testing
-- 🔧 **Data Engineering** — ETL/ELT pipelines, BigQuery, Snowflake, Airflow, Airbyte
-- 🧠 **ML for Fraud** — Risk scoring, anomaly detection, XGBoost, feature engineering
-- ⚡ **Workflow Automation** — n8n workflows, webhooks, event-driven integrations
-- 📈 **BI & Reporting** — Looker, Metabase, real-time dashboards, KPI tracking
+- 🤖 **AI Agents & LLMs** — Building production-grade LLM-powered systems with RAG, MCP, and prompt engineering
+- 🧠 **Machine Learning** — Classification, NLP, fraud detection, and predictive models in production
+- 📊 **Data Science** — Analytics, A/B testing, feature engineering, and data-driven insights
+- ⚡ **Workflow Automation** — Designing n8n workflows, webhooks, and event-driven integrations
+- 🔧 **Data Engineering** — ETL/ELT pipelines, BigQuery, PostgreSQL, dbt, Airflow
+- 💬 **Chatbots** — Telegram bots with AI, voice recognition, and conversational memory
 
 ---
 
@@ -65,11 +65,12 @@
 
 ## 📂 Featured Projects
 
-### 🛡️ Fraud & Analytics
+### 🔧 Data Engineering
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[dbt-fraud-analytics](https://github.com/makuzminets/data-engineering-max/tree/main/dbt_fraud_analytics)** | Production-ready dbt project for fraud detection — staging, intermediate, marts with risk scoring | dbt, SQL, BigQuery |
+| **[Airflow Pipelines](https://github.com/makuzminets/data-engineering-max/tree/main/airflow_pipelines)** | 10 production-grade DAGs: ETL sync, GDPR anonymization, data quality, alerting | Airflow, BigQuery, PostgreSQL, ClickHouse |
+| **[dbt Fraud Analytics](https://github.com/makuzminets/data-engineering-max/tree/main/dbt_fraud_analytics)** | Fraud detection models: staging → marts, risk scoring, star schema | dbt, BigQuery, SQL |
 
 ### 🤖 AI & Automation
 
@@ -106,18 +107,19 @@
 
 ## 💡 Currently Working On
 
-- 🛡️ Fraud detection systems with ML-powered risk scoring
-- 📊 dbt projects for analytics engineering
-- ⚡ Automating workflows with n8n + AI
-- 🔍 Real-time monitoring and anomaly detection
+- 🔧 Building RAG-powered chatbots with MCP context orchestration
+- 🚀 Automating business workflows with n8n + AI
+- 🧠 ML models for classification and fraud detection
+- 📊 End-to-end data pipelines with real-time analytics
 
 ---
 
 <p align="center">
-  <sub>💬 Open to remote roles: Data Analyst, Analytics Engineer, Fraud & Trust Safety</sub>
+  <sub>💬 Open to collaboration on AI/ML/Automation projects</sub>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makuzminets&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
+
 
