@@ -69,6 +69,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| **[Fraud ML Pipeline](https://github.com/makuzminets/data-engineering-max/tree/main/fraud_ml_pipeline)** | Signup fraud detection: 40+ features, XGBoost/LightGBM, FastAPI scoring | Python, XGBoost, FastAPI, Docker |
 | **[Airflow Pipelines](https://github.com/makuzminets/data-engineering-max/tree/main/airflow_pipelines)** | 10 production-grade DAGs: ETL sync, GDPR anonymization, data quality, alerting | Airflow, BigQuery, PostgreSQL, ClickHouse |
 | **[dbt Fraud Analytics](https://github.com/makuzminets/data-engineering-max/tree/main/dbt_fraud_analytics)** | Fraud detection models: staging → marts, risk scoring, star schema | dbt, BigQuery, SQL |
 
@@ -108,5 +109,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=makuzminets&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
-
 
