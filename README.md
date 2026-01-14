@@ -91,19 +91,6 @@
 |---------|-------------|-------|
 | **[Stepik-ML](https://github.com/makuzminets/Stepik-ML)** | Data Science notebooks — ML algorithms, feature engineering, model evaluation | Python, Jupyter, scikit-learn |
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makuzminets&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makuzminets&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 💡 Currently Working On
 
